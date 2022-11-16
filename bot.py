@@ -3,7 +3,7 @@ from messages import *
 from in_line_keyboard import * 
 
 
-key = "5582116416:AAELOVjyRe6LIpfOxcik5Qo_OAzf4-9Ii1s"
+key = "5582116416:Hello-9Ii1s"
 
 bot = Bot(key)
 dp = Dispatcher(bot)
